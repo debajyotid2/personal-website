@@ -6,14 +6,21 @@
     <description>Recent content on </description>
     <generator>Hugo -- 0.141.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 18 Jan 2025 16:12:28 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jan 2025 11:47:02 -0500</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Blog</title>
-      <link>http://localhost:1313/blog/</link>
-      <pubDate>Sat, 18 Jan 2025 16:12:28 -0500</pubDate>
-      <guid>http://localhost:1313/blog/</guid>
-      <description>&lt;p&gt;Welcome to my blog where I share my thoughts and experiences about programming, tech, and life.&lt;/p&gt;</description>
+      <title>Test</title>
+      <link>http://localhost:1313/posts/test/</link>
+      <pubDate>Sun, 19 Jan 2025 11:47:02 -0500</pubDate>
+      <guid>http://localhost:1313/posts/test/</guid>
+      <description>&lt;p&gt;Just testing stuff&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Projects</title>
+      <link>http://localhost:1313/projects/</link>
+      <pubDate>Sun, 19 Jan 2025 11:37:47 -0500</pubDate>
+      <guid>http://localhost:1313/projects/</guid>
+      <description>&lt;p&gt;Something about projects&lt;/p&gt;</description>
     </item>
     <item>
       <title>About Deb</title>

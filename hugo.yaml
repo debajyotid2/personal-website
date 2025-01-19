@@ -4,6 +4,7 @@ title: ""
 theme: "PaperMod"
 
 params:
+  env: production
   author: Debajyoti Debnath
   description: Welcome to my personal website
   
@@ -34,7 +35,11 @@ menu:
       name: About
       url: /about/
       weight: 20
+    - identifier: projects
+      name: Projects
+      url: /projects/
+      weight: 30
     - identifier: blog
       name: Blog
       url: /blog/
-      weight: 30
+      weight: 40
