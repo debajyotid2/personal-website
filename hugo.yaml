@@ -1,0 +1,40 @@
+baseURL: https://example.org/
+languageCode: en-us
+title: ""
+theme: "PaperMod"
+
+params:
+  author: Debajyoti Debnath
+  description: Welcome to my personal website
+  
+  homeInfoParams:
+    Title: "Debajyoti Debnath"
+    Content: >
+      Hi, I am a software engineer with a focus on machine learning, AI model deployment, and simulation, currently working at [Siemens](). My previous experience includes developing tools for sensitivity analysis at [National Renewable Energy Laboratory](https://www.nrel.gov/) and researching heat transfer problems using computational fluid dynamics at [IIT Guwahati](https://www.iitg.ac.in/chemeng/index.php). Additionally I have gained significant experience applying deep learning algorithms to solve problems for [social good](https://www.fruitpunch.ai/blog/tracking-turtles-how-ai-helps-conservationists-to-re-identify-sea-turtles). With graduate studies focused on data and computational science at [Purdue University](https://www.purdue.edu/academics/ogsps/cigp/index.html), I am passionate about leveraging technology to create meaningful impact.
+
+  socialIcons:
+    - name: github
+      url: https://www.github.com/debajyotid2
+    - name: linkedin
+      url: https://www.linkedin.com/in/debajyotid2
+    - name: reddit
+      url: https://www.reddit.com/user/deviousteapot95
+    - name: mastodon
+      url: https://mastodon.social/@deviousteapot
+    - name: orcid
+      url: https://orcid.org/0000-0002-5667-0674
+
+menu:
+  main:
+    - identifier: home
+      name: Home
+      url: /
+      weight: 10
+    - identifier: about
+      name: About
+      url: /about/
+      weight: 20
+    - identifier: blog
+      name: Blog
+      url: /blog/
+      weight: 30
