@@ -10,7 +10,7 @@
 <meta name="description" content="Welcome to my personal website">
 <meta name="author" content="Debajyoti Debnath">
 <link rel="canonical" href="https://www.debdebnath.com/categories/">
-<link crossorigin="anonymous" href="/assets/css/stylesheet.a5d2629a2f103a07b07b88242ebd875e032840b3e16e4fa9ced48a241e70ecc1.css" integrity="sha256-pdJimi8QOgewe4gkLr2HXgMoQLPhbk&#43;pztSKJB5w7ME=" rel="preload stylesheet" as="style">
+<link crossorigin="anonymous" href="/assets/css/stylesheet.bdced37ae6892cb147fb08a206d71eec2eca7aeff704a32f2991897b85f227ab.css" integrity="sha256-vc7TeuaJLLFH&#43;wiiBtce7C7Keu/3BKMvKZGJe4XyJ6s=" rel="preload stylesheet" as="style">
 <link rel="icon" href="https://www.debdebnath.com/favicon.ico">
 <link rel="icon" type="image/png" sizes="16x16" href="https://www.debdebnath.com/favicon-16x16.png">
 <link rel="icon" type="image/png" sizes="32x32" href="https://www.debdebnath.com/favicon-32x32.png">
@@ -156,7 +156,23 @@
     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6" fill="currentColor">
         <path d="M12 6H0l6-6z" />
     </svg>
-</a>
+</a><script>
+document.addEventListener('DOMContentLoaded', function() {
+  var accordions = document.getElementsByClassName("accordion-toggle");
+  for (var i = 0; i < accordions.length; i++) {
+    accordions[i].addEventListener("click", function() {
+      this.classList.toggle("active");
+      var content = this.nextElementSibling;
+      if (content.style.maxHeight) {
+        content.style.maxHeight = null;
+      } else {
+        content.style.maxHeight = content.scrollHeight + "px";
+      }
+    });
+  }
+});
+</script>
+
 
 <script>
     let menu = document.getElementById('menu')

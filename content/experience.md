@@ -1,12 +1,10 @@
 ---
 date: '2025-01-19T14:26:06-05:00'
 draft: false
-title: ''
+title: 'Experience'
 aliases: ["/resume/"]
 hidemeta: true
 ---
-
-## Experience
 
 ### [Siemens Digital Industries](https://xcelerator.siemens.com/global/en/industries/battery-manufacturing/accelerated-battery-development.html)  
 **Machine Learning Engineer** - _Livonia, Michigan_  
@@ -36,7 +34,7 @@ Jun 2022 – Dec 2022
 **Researcher** - _West Lafayette, Indiana_  
 Jan 2022 – May 2022  
 
-### [Indian Institute of Technology Guwahati](http://www.iitg.ac.in/chemeng/home)  
+### [Indian Institute of Technology Guwahati](http://www.iitg.ac.in/chemeng)  
 **Project Assistant** - _Assam, India_  
 Sep 2019 – Jul 2021  
 

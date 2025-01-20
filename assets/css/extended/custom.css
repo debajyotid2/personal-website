@@ -1,0 +1,14 @@
+.accordion {
+  margin-bottom: 10px;
+}
+
+.project-badge {
+  display: inline-block;
+  padding: 2px 8px;
+  border-radius: 12px;
+  font-size: 0.8em;
+  font-weight: bold;
+  margin-left: 10px;
+  background-color: #3498db;
+  color: white;
+}

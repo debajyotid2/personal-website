@@ -9,12 +9,11 @@
     <lastBuildDate>Sun, 19 Jan 2025 14:26:06 -0500</lastBuildDate>
     <atom:link href="https://www.debdebnath.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title></title>
+      <title>Experience</title>
       <link>https://www.debdebnath.com/experience/</link>
       <pubDate>Sun, 19 Jan 2025 14:26:06 -0500</pubDate>
       <guid>https://www.debdebnath.com/experience/</guid>
-      <description>&lt;h2 id=&#34;experience&#34;&gt;Experience&lt;/h2&gt;
-&lt;h3 id=&#34;siemens-digital-industrieshttpsxceleratorsiemenscomglobalenindustriesbattery-manufacturingaccelerated-battery-developmenthtml&#34;&gt;&lt;a href=&#34;https://xcelerator.siemens.com/global/en/industries/battery-manufacturing/accelerated-battery-development.html&#34;&gt;Siemens Digital Industries&lt;/a&gt;&lt;/h3&gt;
+      <description>&lt;h3 id=&#34;siemens-digital-industrieshttpsxceleratorsiemenscomglobalenindustriesbattery-manufacturingaccelerated-battery-developmenthtml&#34;&gt;&lt;a href=&#34;https://xcelerator.siemens.com/global/en/industries/battery-manufacturing/accelerated-battery-development.html&#34;&gt;Siemens Digital Industries&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;Machine Learning Engineer&lt;/strong&gt; - &lt;em&gt;Livonia, Michigan&lt;/em&gt;&lt;br&gt;
 Nov 2023 – Jan 2025&lt;/p&gt;
 &lt;h3 id=&#34;code-for-bostonhttpsgithubcomcodeforbostonhome-energy-analysis-tool&#34;&gt;&lt;a href=&#34;https://github.com/codeforboston/home-energy-analysis-tool&#34;&gt;Code for Boston&lt;/a&gt;&lt;/h3&gt;
@@ -41,17 +40,16 @@ Jun 2022 – Dec 2022&lt;/p&gt;</description>
       <description>&lt;p&gt;Just testing stuff&lt;/p&gt;</description>
     </item>
     <item>
-      <title></title>
+      <title>Projects</title>
       <link>https://www.debdebnath.com/projects/</link>
       <pubDate>Sun, 19 Jan 2025 11:37:47 -0500</pubDate>
       <guid>https://www.debdebnath.com/projects/</guid>
-      <description>&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.fruitpunch.ai/blog/tracking-turtles-how-ai-helps-conservationists-to-re-identify-sea-turtles&#34;&gt;&lt;strong&gt;Sea Turtle Conservation Using Feature Matching Algorithms&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.frissewind.nu/articles/ai&#34;&gt;&lt;strong&gt;Toxic Industrial Smoke Detection from Camera Feed&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/debajyotid2/gradient_descent&#34;&gt;&lt;strong&gt;Multivariate Linear Regression Using Stochastic Gradient Descent&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/debajyotid2/pointnet_pl&#34;&gt;&lt;strong&gt;PointNet Reimplementation in PyTorch&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/debajyotid2/activation_energy_prediction&#34;&gt;&lt;strong&gt;Activation Energy Prediction from Reaction Data&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
+      <description>&lt;h2 id=&#34;past&#34;&gt;Past&lt;/h2&gt;
+&lt;h3 id=&#34;sea-turtle-conservation-using-feature-matching-algorithmshttpswwwfruitpunchaiblogtracking-turtles-how-ai-helps-conservationists-to-re-identify-sea-turtles&#34;&gt;&lt;a href=&#34;https://www.fruitpunch.ai/blog/tracking-turtles-how-ai-helps-conservationists-to-re-identify-sea-turtles&#34;&gt;Sea Turtle Conservation Using Feature Matching Algorithms&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Jan 2024 – Apr 2024&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;
+    &lt;summary&gt;🔍 Detailed Overview&lt;/summary&gt;
+    &lt;p&gt;Collaborating with &lt;a href=&#34;https://www.bonaireturtles.org/wp/&#34;&gt;Sea Turtle Conservation Bonaire (STCB)&lt;/a&gt;, we developed an AI-driven application to identify individual sea turtles from photographs, enhancing conservation efforts by understanding their migratory patterns. As a member of the feature extraction and matching team in the &amp;ldquo;AI for Turtles&amp;rdquo; project, our primary goal was to develop a system capable of accurately identifying individual sea turtles from photographs. After evaluating various methods including &lt;a href=&#34;https://home.cis.rit.edu/~cnspci/references/dip/feature_extraction/lowe1999.pdf&#34;&gt;SIFT&lt;/a&gt; and &lt;a href=&#34;https://openaccess.thecvf.com/content/CVPR2021/papers/Sun_LoFTR_Detector-Free_Local_Feature_Matching_With_Transformers_CVPR_2021_paper.pdf&#34;&gt;LoFTR&lt;/a&gt;, we selected &lt;a href=&#34;https://openaccess.thecvf.com/content/ICCV2023/papers/Lindenberger_LightGlue_Local_Feature_Matching_at_Light_Speed_ICCV_2023_paper.pdf&#34;&gt;LightGlue&lt;/a&gt; for feature extraction due to its superior performance, achieving a 92% matching accuracy and 86% accuracy in detecting novel individuals. LightGlue utilizes the SIFT algorithm to identify key points in images, which are then matched to determine the top five similar turtles in the database. We introduced the use of the Wasserstein score to assess the distribution of confidence scores for keypoint pairs, aiding in the identification process. This approach significantly enhanced the efficiency and accuracy of re-identifying sea turtles, providing conservationists with a powerful tool to monitor and protect these endangered species.&lt;/p&gt;</description>
     </item>
     <item>
       <title>About Deb</title>
