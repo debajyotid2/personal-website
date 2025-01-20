@@ -2,28 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://www.debdebnath.com/</loc>
     <lastmod>2025-01-19T14:26:06-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/resume/</loc>
+    <loc>https://www.debdebnath.com/experience/</loc>
     <lastmod>2025-01-19T14:26:06-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://www.debdebnath.com/posts/</loc>
     <lastmod>2025-01-19T11:47:02-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/test/</loc>
+    <loc>https://www.debdebnath.com/posts/test/</loc>
     <lastmod>2025-01-19T11:47:02-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects/</loc>
+    <loc>https://www.debdebnath.com/projects/</loc>
     <lastmod>2025-01-19T11:37:47-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://www.debdebnath.com/about/</loc>
     <lastmod>2025-01-18T16:01:33-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/</loc>
+    <loc>https://www.debdebnath.com/blog/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://www.debdebnath.com/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://www.debdebnath.com/tags/</loc>
   </url>
 </urlset>

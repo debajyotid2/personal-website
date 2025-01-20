@@ -11,7 +11,7 @@ params:
   homeInfoParams:
     Title: "Debajyoti Debnath"
     Content: >
-      Hi, I am a software engineer with a focus on machine learning, AI model deployment, and simulation, currently working at [Siemens](). My previous experience includes developing tools for sensitivity analysis at [National Renewable Energy Laboratory](https://www.nrel.gov/) and researching heat transfer problems using computational fluid dynamics at [IIT Guwahati](https://www.iitg.ac.in/chemeng/index.php). Additionally I have gained significant experience applying deep learning algorithms to solve problems for [social good](https://www.fruitpunch.ai/blog/tracking-turtles-how-ai-helps-conservationists-to-re-identify-sea-turtles). With graduate studies focused on data and computational science at [Purdue University](https://www.purdue.edu/academics/ogsps/cigp/index.html), I am passionate about leveraging technology to create meaningful impact.
+      Hi, I am Deb, a software engineer with a focus on machine learning, AI model deployment, and simulation, most recently working at [Siemens](https://www.siemens.com/us/en/industries/battery-manufacturing/battery-smart-manufacturing.html). My previous experience includes developing tools for sensitivity analysis at [National Renewable Energy Laboratory](https://www.nrel.gov/) and researching heat transfer problems using computational fluid dynamics at [IIT Guwahati](https://www.iitg.ac.in/chemeng/index.php). Additionally I have gained significant experience applying deep learning algorithms to solve problems for [social good](https://www.fruitpunch.ai/blog/tracking-turtles-how-ai-helps-conservationists-to-re-identify-sea-turtles). With graduate studies focused on data and computational science at [Purdue University](https://www.purdue.edu/academics/ogsps/cigp/index.html), I am passionate about leveraging technology to create meaningful impact.
 
   socialIcons:
     - name: github
@@ -35,9 +35,9 @@ menu:
       name: About
       url: /about/
       weight: 20
-    - identifier: resume
-      name: Resume
-      url: /resume/
+    - identifier: experience
+      name: Experience
+      url: /experience/
       weight: 30
     - identifier: projects
       name: Projects

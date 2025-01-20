@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title></title>
-    <link>http://localhost:1313/</link>
+    <link>https://www.debdebnath.com/</link>
     <description>Recent content on </description>
     <generator>Hugo -- 0.141.0</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 19 Jan 2025 14:26:06 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.debdebnath.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>http://localhost:1313/resume/</link>
+      <link>https://www.debdebnath.com/experience/</link>
       <pubDate>Sun, 19 Jan 2025 14:26:06 -0500</pubDate>
-      <guid>http://localhost:1313/resume/</guid>
-      <description>&lt;h2 id=&#34;relevant-experience&#34;&gt;Relevant Experience&lt;/h2&gt;
+      <guid>https://www.debdebnath.com/experience/</guid>
+      <description>&lt;h2 id=&#34;experience&#34;&gt;Experience&lt;/h2&gt;
 &lt;h3 id=&#34;siemens-digital-industrieshttpsxceleratorsiemenscomglobalenindustriesbattery-manufacturingaccelerated-battery-developmenthtml&#34;&gt;&lt;a href=&#34;https://xcelerator.siemens.com/global/en/industries/battery-manufacturing/accelerated-battery-development.html&#34;&gt;Siemens Digital Industries&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;Machine Learning Engineer&lt;/strong&gt; - &lt;em&gt;Livonia, Michigan&lt;/em&gt;&lt;br&gt;
 Nov 2023 – Jan 2025&lt;/p&gt;
@@ -28,20 +28,23 @@ Aug 2023 – Present&lt;/p&gt;
 Jul 2023 – Aug 2024&lt;/p&gt;
 &lt;h3 id=&#34;purdue-universityhttpwwwdataminepurdueedu&#34;&gt;&lt;a href=&#34;http://www.datamine.purdue.edu/&#34;&gt;Purdue University&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;Project Lead&lt;/strong&gt; - &lt;em&gt;West Lafayette, Indiana&lt;/em&gt;&lt;br&gt;
-Jan 2023 – May 2023&lt;/p&gt;</description>
+Jan 2023 – May 2023&lt;/p&gt;
+&lt;h3 id=&#34;national-renewable-energy-laboratoryhttpswwwnrelgov&#34;&gt;&lt;a href=&#34;https://www.nrel.gov/&#34;&gt;National Renewable Energy Laboratory&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Intern&lt;/strong&gt; - &lt;em&gt;Golden, Colorado&lt;/em&gt;&lt;br&gt;
+Jun 2022 – Dec 2022&lt;/p&gt;</description>
     </item>
     <item>
       <title>Test</title>
-      <link>http://localhost:1313/posts/test/</link>
+      <link>https://www.debdebnath.com/posts/test/</link>
       <pubDate>Sun, 19 Jan 2025 11:47:02 -0500</pubDate>
-      <guid>http://localhost:1313/posts/test/</guid>
+      <guid>https://www.debdebnath.com/posts/test/</guid>
       <description>&lt;p&gt;Just testing stuff&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/projects/</link>
+      <link>https://www.debdebnath.com/projects/</link>
       <pubDate>Sun, 19 Jan 2025 11:37:47 -0500</pubDate>
-      <guid>http://localhost:1313/projects/</guid>
+      <guid>https://www.debdebnath.com/projects/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.fruitpunch.ai/blog/tracking-turtles-how-ai-helps-conservationists-to-re-identify-sea-turtles&#34;&gt;&lt;strong&gt;Sea Turtle Conservation Using Feature Matching Algorithms&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.frissewind.nu/articles/ai&#34;&gt;&lt;strong&gt;Toxic Industrial Smoke Detection from Camera Feed&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
@@ -52,11 +55,10 @@ Jan 2023 – May 2023&lt;/p&gt;</description>
     </item>
     <item>
       <title>About Deb</title>
-      <link>http://localhost:1313/about/</link>
+      <link>https://www.debdebnath.com/about/</link>
       <pubDate>Sat, 18 Jan 2025 16:01:33 -0500</pubDate>
-      <guid>http://localhost:1313/about/</guid>
-      <description>&lt;p&gt;My day-to-day work involves developing machine learning algorithms, productionizing ML models, and scaling AI solutions for real-world challenges. In my current position at Siemens, my projects involve building AI solutions based on physics-based simulations and deploying them on edge infrastructure for making &lt;a href=&#34;https://www.siemens.com/us/en/industries/battery-manufacturing.html&#34;&gt;battery gigafactories scalable and efficient&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Outside of work, I’m passionate about contributing to open-source initiatives and volunteer projects that intersect with my skills and values. From &lt;a href=&#34;https://github.com/codeforboston/home-energy-analysis-tool&#34;&gt;designing data models to help estimate home heating requirements&lt;/a&gt; and assess heat pump capacity to &lt;a href=&#34;https://www.fruitpunch.ai/blog/tracking-turtles-how-ai-helps-conservationists-to-re-identify-sea-turtles&#34;&gt;developing deep learning algorithms for wildlife conservation&lt;/a&gt;, I am driven by the opportunity to create meaningful impact. Through each step of my journey, I’ve sought not just to adapt to change, but to embrace it, turning new challenges into opportunities for growth and innovation.&lt;/p&gt;</description>
+      <guid>https://www.debdebnath.com/about/</guid>
+      <description>&lt;p&gt;My work focuses on developing machine learning algorithms, productionizing models, and scaling AI solutions to address real-world challenges. At Siemens, I built AI systems grounded in physics-based simulations and deployed them on edge infrastructure to enhance the scalability and efficiency of &lt;a href=&#34;https://www.siemens.com/us/en/industries/battery-manufacturing.html&#34;&gt;battery gigafactories&lt;/a&gt;. Beyond my professional endeavors, I actively contribute to open-source initiatives and volunteer projects that align with my skills, like &lt;a href=&#34;https://github.com/codeforboston/home-energy-analysis-tool&#34;&gt;designing data models for sustainable home heating systems&lt;/a&gt; or &lt;a href=&#34;https://www.fruitpunch.ai/blog/tracking-turtles-how-ai-helps-conservationists-to-re-identify-sea-turtles&#34;&gt;crafting deep learning algorithms to support wildlife conservation&lt;/a&gt;. Across these efforts, I embrace challenges as opportunities for growth and innovation.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

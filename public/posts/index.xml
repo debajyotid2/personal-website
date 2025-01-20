@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on </title>
-    <link>http://localhost:1313/posts/</link>
+    <link>https://www.debdebnath.com/posts/</link>
     <description>Recent content in Posts on </description>
     <generator>Hugo -- 0.141.0</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 19 Jan 2025 11:47:02 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.debdebnath.com/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Test</title>
-      <link>http://localhost:1313/posts/test/</link>
+      <link>https://www.debdebnath.com/posts/test/</link>
       <pubDate>Sun, 19 Jan 2025 11:47:02 -0500</pubDate>
-      <guid>http://localhost:1313/posts/test/</guid>
+      <guid>https://www.debdebnath.com/posts/test/</guid>
       <description>&lt;p&gt;Just testing stuff&lt;/p&gt;</description>
     </item>
   </channel>

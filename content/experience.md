@@ -2,10 +2,11 @@
 date: '2025-01-19T14:26:06-05:00'
 draft: false
 title: ''
+aliases: ["/resume/"]
 hidemeta: true
 ---
 
-## Relevant Experience
+## Experience
 
 ### [Siemens Digital Industries](https://xcelerator.siemens.com/global/en/industries/battery-manufacturing/accelerated-battery-development.html)  
 **Machine Learning Engineer** - _Livonia, Michigan_  
@@ -48,8 +49,12 @@ Jul 2017 – Aug 2019
 ## Education
 
 ### [Purdue University](https://purdue.edu/)  
-**Master of Science in Chemical Engineering (Computational Interdisciplinary Graduate Program)** - _West Lafayette, Indiana_  
+**Master of Science in Chemical Engineering** \
+**(Computational Interdisciplinary Graduate Program)** - _West Lafayette, Indiana_  
 Aug 2021 – May 2023  
+
+Concentration in Data Science and Computational Engineering \
+(30 credits for data science + 9 credits for computational science and engineering)
 
 ### [National Institute of Technology Karnataka](https://www.nitk.ac.in/)  
 **Bachelor of Technology in Chemical Engineering** - _Surathkal, Karnataka, India_  
