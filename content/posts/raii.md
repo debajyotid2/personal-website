@@ -5,9 +5,15 @@ title: 'Resource Acquisition Is Initialization'
 ShowShareButtons: true
 ---
 
-Resource acquisition is initialization (RAII) refers to a programming technique for resource management where the resource acquired by an object when it is initialized is released when the object is destroyed. [^1]
+Resource acquisition is initialization (RAII) refers to a programming technique for resource management where the resource acquired by an object when it is initialized is released when the object is destroyed. [^1] A resource here is anything that there is a fixed quantity of and requires an acquisition process to be used and a release process to be freed. One common example of a resource is dynamically allocated heap memory.
 
-To explain RAII by example, I will use programs written in C++. 
+To explain RAII by example, I will use the example of memory management using programs written in C++. 
+
+### Wait, so what?
+
+Not managing resources properly can lead to costly mistakes. For example, improper memory management can lead to memory leaks [^2] or use-after-free vulnerabilities [^3]. Google acknowledged that the use of memory safe development practices reduced the percentage of memory safety vulnerabilities from 76% to 24% in Android. [^4]
+
+Now, returning to our example...
 
 ### The setup
 
@@ -151,4 +157,7 @@ Calling `x.print()` segfaults as `x` no longer owns the memory it was originally
 
 RAII is a programming pattern that ensures efficient and predictable allocation and cleanup of resources (file handles, heap memory, etc.) by tying the initiation and termination of their usage to the lifetime of the entity that invokes them. Using constructors and destructors provided in a programming language that facilitates an object oriented programming paradigm makes the implementation of RAII clean and programmer-friendly.
 
-[^1]: Stroustrup, B. (2001). Exception safety: concepts and techniques. In Advances in exception handling techniques (pp. 60-76). Berlin, Heidelberg: Springer Berlin Heidelberg. [PDF](https://www.academia.edu/download/30747472/Alexander_Romanovsky_Advances_in_Exception_Hand.pdf#page=72)
+[^1]: **Stroustrup, B. (2001).** Exception safety: concepts and techniques. In Advances in exception handling techniques (pp. 60-76). Berlin, Heidelberg: Springer Berlin Heidelberg.
+[^2]: **OWASP Foundation.** Memory leak. OWASP. Retrieved January 21, 2025, from https://owasp.org/www-community/vulnerabilities/Memory_leak
+[^3]: **Kaspersky.** Use-After-Free. Kaspersky IT Encyclopedia. Retrieved January 21, 2025, from https://encyclopedia.kaspersky.com/glossary/use-after-free/
+[^4]: **Vander Stoep, J., & Rebert, A. (2024, September 25).** Eliminating memory safety vulnerabilities at the source. Google Security Blog. Retrieved January 21, 2025, from https://security.googleblog.com/2024/09/eliminating-memory-safety-vulnerabilities-Android.html

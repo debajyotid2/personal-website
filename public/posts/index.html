@@ -130,13 +130,11 @@
     </h2>
   </header>
   <div class="entry-content">
-    <p>Resource acquisition is initialization (RAII) refers to a programming technique for resource management where the resource acquired by an object when it is initialized is released when the object is destroyed. 1
-To explain RAII by example, I will use programs written in C&#43;&#43;.
-The setup For the sake of simplicity, the example will involve allocation of memory on the heap for a floating point variable.
-A variable x declared on the heap is assigned 3.14, used and then deleted, freeing up the memory allocated to it when it was declared. Trying to access it after it has been deleted causes “undefined behavior” that is dependent on the compiler you use, as deletion of the resource associated with x makes it a dangling pointer.
+    <p>Resource acquisition is initialization (RAII) refers to a programming technique for resource management where the resource acquired by an object when it is initialized is released when the object is destroyed. 1 A resource here is anything that there is a fixed quantity of and requires an acquisition process to be used and a release process to be freed. One common example of a resource is dynamically allocated heap memory.
+To explain RAII by example, I will use the example of memory management using programs written in C&#43;&#43;.
 ...</p>
   </div>
-  <footer class="entry-footer"><span title='2025-01-21 10:38:06 -0500 EST'>January 21, 2025</span>&nbsp;·&nbsp;4 min&nbsp;·&nbsp;Debajyoti Debnath</footer>
+  <footer class="entry-footer"><span title='2025-01-21 10:38:06 -0500 EST'>January 21, 2025</span>&nbsp;·&nbsp;5 min&nbsp;·&nbsp;Debajyoti Debnath</footer>
   <a class="entry-link" aria-label="post link to Resource Acquisition Is Initialization" href="https://www.debdebnath.com/posts/raii/"></a>
 </article>
     </main>
