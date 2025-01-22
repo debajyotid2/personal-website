@@ -15,7 +15,7 @@ params:
   defaultTheme: dark
   
   editPost:
-    URL: https://www.github.com/debajyotid2/personal-website/content
+    URL: https://www.github.com/debajyotid2/personal-website/blob/main/content
     Text: "Suggest changes"
     appendFilePath: true
 
