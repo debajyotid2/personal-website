@@ -23,8 +23,6 @@ Collaborating with [Sea Turtle Conservation Bonaire (STCB)](https://www.bonairet
 {{< project-badge "deep learning" "Deep Learning" >}}
 {{< project-badge "representation learning" "Representation Learning" >}}
 
----
-
 ### [Toxic Industrial Smoke Detection from Camera Feed](https://www.frissewind.nu/articles/ai)
 
 Jul 2023 – Feb 2024
@@ -41,8 +39,6 @@ As developers on the AI monitoring project of [Fruitpunch AI](https://www.fruitp
 {{< project-badge "video classification" "Video Classification" >}}
 {{< project-badge "tensorrt" "TensorRT" >}}
 
----
-
 ### [Multivariate Linear Regression Using Stochastic Gradient Descent](https://github.com/debajyotid2/gradient_descent)
 
 Jul 2023 – Aug 2023
@@ -57,8 +53,6 @@ This project demonstrates multivariate linear regression using stochastic gradie
 {{< project-badge "linear algebra" "Linear Algebra" >}}
 {{< project-badge "optimization" "Optimization" >}}
 {{< project-badge "hpc" "HPC" >}}
-
----
 
 ### [Uncertainty Analysis of Alzheimer’s Disease Cell-Free mRNA Assay Classifier](https://media.licdn.com/dms/document/media/v2/D562DAQEahK4YdCa1gw/profile-treasury-document-pdf-analyzed/profile-treasury-document-pdf-analyzed/0/1732575334006?e=1738195200&v=beta&t=qaGLTUFGYh6Jrsnb9XKJVuxTJYuk4j7PZ16xqvc19U0)
 
@@ -75,8 +69,6 @@ Leading the student team as part of [The Data Mine](https://datamine.purdue.edu/
 {{< project-badge "monte carlo simulations" "Monte Carlo Simulations" >}}
 {{< project-badge "bioinformatics" "Bioinformatics" >}}
 {{< project-badge "hpc" "HPC" >}}
-
----
 
 ### [Activation Energy Prediction from Reaction Data](https://github.com/debajyotid2/activation_energy_prediction)
 
@@ -109,8 +101,6 @@ The [Cryptopals](https://cryptopals.com/) project is a collection of cryptograph
 \
 {{< project-badge "cryptography" "Cryptography" >}}
 
----
-
 ### [A Matrix Library in C](https://github.com/debajyotid2/matlibr)
 
 {{< collapse summary="🔍 Detailed Overview" >}}
@@ -123,8 +113,6 @@ The `matlibr` project is a barebones implementation of a 2D matrix datatype in C
 \
 {{< project-badge "linear algebra" "Linear Algebra" >}}
 {{< project-badge "hpc" "HPC" >}}
-
----
 
 ### [A Thread Pool in C](https://github.com/debajyotid2/yatpool)
 
@@ -139,8 +127,6 @@ The `yatpool` project is a thread pool implementation in pure C, utilizing [POSI
 {{< project-badge "hpc" "HPC" >}}
 {{< project-badge "parallel computing" "Parallel computing" >}}
 
----
-
 ### [Advent of Code](https://github.com/debajyotid2/adventofcode)
 
 {{< collapse summary="🔍 Detailed Overview" >}}
@@ -152,5 +138,3 @@ This project involves my ongoing attempt at solving the [Advent of Code](https:/
 {{< /collapse >}}
 \
 {{< project-badge "programming challenge" "Programming Challenge" >}}
-
----
