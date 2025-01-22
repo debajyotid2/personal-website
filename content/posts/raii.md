@@ -24,7 +24,7 @@ A variable `x` declared on the heap is assigned `3.14`, used and then deleted, f
 ```cpp
 #include <iostream>
 
-int main() {
+int main(int argc, char* argv[]) {
     float* x = new float;
     *x = 3.14; 
     std::cout << *x << "\n";
@@ -60,7 +60,7 @@ public:
     }
 };
 
-int main() {
+int main(int argc, char* argv[]) {
     RAIIFloat x(3.14);
     x.print();
     return 0;
@@ -71,7 +71,7 @@ No dangling pointers, no `new`, no `delete`! And yet, consider the following:
 
 ```cpp
 ...
-int main() {
+int main(int argc, char* argv[]) {
     RAIIFloat x(3.14);
     x.print();
     RAIIFloat y = x;
@@ -141,7 +141,7 @@ As a result, ownership is now moved to the new object on assignment.
 
 ```cpp
 ...
-int main() {
+int main(int argc, char* argv[]) {
     RAIIFloat x(3.14);
     x.print();
     RAIIFloat y = std::move(x);
