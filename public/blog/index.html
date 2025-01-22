@@ -10,7 +10,7 @@
 <meta name="description" content="archives">
 <meta name="author" content="Debajyoti Debnath">
 <link rel="canonical" href="https://www.debdebnath.com/blog/">
-<link crossorigin="anonymous" href="/assets/css/stylesheet.bdced37ae6892cb147fb08a206d71eec2eca7aeff704a32f2991897b85f227ab.css" integrity="sha256-vc7TeuaJLLFH&#43;wiiBtce7C7Keu/3BKMvKZGJe4XyJ6s=" rel="preload stylesheet" as="style">
+<link crossorigin="anonymous" href="/assets/css/stylesheet.25affd57876e8616931aa986244d6b73cafa8eaadc0e3293bf4764e9ac706be6.css" integrity="sha256-Ja/9V4duhhaTGqmGJE1rc8r6jqrcDjKTv0dk6axwa&#43;Y=" rel="preload stylesheet" as="style">
 <link rel="icon" href="https://www.debdebnath.com/favicon.ico">
 <link rel="icon" type="image/png" sizes="16x16" href="https://www.debdebnath.com/favicon-16x16.png">
 <link rel="icon" type="image/png" sizes="32x32" href="https://www.debdebnath.com/favicon-32x32.png">
@@ -24,34 +24,6 @@
         #theme-toggle,
         .top-link {
             display: none;
-        }
-
-    </style>
-    <style>
-        @media (prefers-color-scheme: dark) {
-            :root {
-                --theme: rgb(29, 30, 32);
-                --entry: rgb(46, 46, 51);
-                --primary: rgb(218, 218, 219);
-                --secondary: rgb(155, 156, 157);
-                --tertiary: rgb(65, 66, 68);
-                --content: rgb(196, 196, 197);
-                --code-block-bg: rgb(46, 46, 51);
-                --code-bg: rgb(55, 56, 62);
-                --border: rgb(51, 51, 51);
-            }
-
-            .list {
-                background: var(--theme);
-            }
-
-            .list:not(.dark)::-webkit-scrollbar-track {
-                background: 0 0;
-            }
-
-            .list:not(.dark)::-webkit-scrollbar-thumb {
-                border-color: var(--theme);
-            }
         }
 
     </style>
@@ -114,14 +86,10 @@
 </script>
 </head>
 
-<body class="list" id="top">
+<body class="list dark" id="top">
 <script>
-    if (localStorage.getItem("pref-theme") === "dark") {
-        document.body.classList.add('dark');
-    } else if (localStorage.getItem("pref-theme") === "light") {
+    if (localStorage.getItem("pref-theme") === "light") {
         document.body.classList.remove('dark')
-    } else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
-        document.body.classList.add('dark');
     }
 
 </script>
@@ -200,10 +168,10 @@
     </h3>
     <div class="archive-posts">
       <div class="archive-entry">
-        <h3 class="archive-entry-title entry-hint-parent">Test
+        <h3 class="archive-entry-title entry-hint-parent">Resource Acquisition Is Initialization
         </h3>
-        <div class="archive-meta"><span title='2025-01-19 11:47:02 -0500 EST'>January 19, 2025</span>&nbsp;·&nbsp;Debajyoti Debnath</div>
-        <a class="entry-link" aria-label="post link to Test" href="https://www.debdebnath.com/posts/test/"></a>
+        <div class="archive-meta"><span title='2025-01-21 10:38:06 -0500 EST'>January 21, 2025</span>&nbsp;·&nbsp;4 min&nbsp;·&nbsp;Debajyoti Debnath</div>
+        <a class="entry-link" aria-label="post link to Resource Acquisition Is Initialization" href="https://www.debdebnath.com/posts/raii/"></a>
       </div>
     </div>
   </div>

@@ -4,6 +4,7 @@ draft: false
 title: 'Experience'
 aliases: ["/resume/"]
 hidemeta: true
+ShowShareButtons: true
 ---
 
 ### [Siemens Digital Industries](https://xcelerator.siemens.com/global/en/industries/battery-manufacturing/accelerated-battery-development.html)  
@@ -46,7 +47,7 @@ Jul 2017 – Aug 2019
 
 ## Education
 
-### [Purdue University](https://purdue.edu/)  
+### [Purdue University](https://www.purdue.edu/academics/ogsps/cigp/index.html)  
 **Master of Science in Chemical Engineering** \
 **(Computational Interdisciplinary Graduate Program)** - _West Lafayette, Indiana_  
 Aug 2021 – May 2023  

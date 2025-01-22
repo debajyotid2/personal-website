@@ -1,9 +1,10 @@
-+++
-date = '2025-01-18T16:01:33-05:00'
-draft = false
-title = 'About Deb'
-hidemeta = true
-+++
+---
+date: '2025-01-18T16:01:33-05:00'
+draft: false
+title: 'About Deb'
+hidemeta: true
+ShowShareButtons: false
+---
 
 My work focuses on developing machine learning algorithms, productionizing models, and scaling AI solutions to address real-world challenges. At Siemens, I built AI systems grounded in physics-based simulations and deployed them on edge infrastructure to enhance the scalability and efficiency of [battery gigafactories](https://www.siemens.com/us/en/industries/battery-manufacturing.html). Beyond my professional endeavors, I actively contribute to open-source initiatives and volunteer projects that align with my skills, like [designing data models for sustainable home heating systems](https://github.com/codeforboston/home-energy-analysis-tool) or [crafting deep learning algorithms to support wildlife conservation](https://www.fruitpunch.ai/blog/tracking-turtles-how-ai-helps-conservationists-to-re-identify-sea-turtles). Across these efforts, I embrace challenges as opportunities for growth and innovation.
 
