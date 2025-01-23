@@ -13,6 +13,7 @@ params:
   ShowShareButtons: true
   ShareButtons: ["linkedin", "x", "reddit"]
   defaultTheme: dark
+  goatcounter: deviousteapot95
   
   assets:
     favicon: "/favicon.ico"
