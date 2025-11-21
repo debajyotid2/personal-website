@@ -58,14 +58,3 @@ Concentration in Data Science and Computational Engineering \
 ### [National Institute of Technology Karnataka](https://www.nitk.ac.in/)  
 **Bachelor of Technology in Chemical Engineering** - _Surathkal, Karnataka, India_  
 Jul 2013 – May 2017  
-
----
-
-## Certifications
-
-- [**Deeplearning.ai Data Engineering Specialization**](https://www.coursera.org/account/accomplishments/specialization/RGVV74LQK0E6) – Jan 2025  
-- [**IBM Full Stack Software Developer Specialization**](https://www.coursera.org/account/accomplishments/specialization/90W67934KLGK) – Dec 2024  
-- [**IBM DevOps and Software Engineering Specialization**](https://www.coursera.org/account/accomplishments/specialization/XYZGW3WDU402) – Dec 2024  
-- [**Deeplearning.ai Machine Learning in Production**](https://www.coursera.org/account/accomplishments/verify/HYL2L2DPX2FM) – Oct 2024  
-- [**AWS Certified Cloud Practitioner (CLF C02)**](https://cp.certmetrics.com/amazon/en/public/verify/credential/9f7a8b93585546259a0e940e33e05650) – Oct 2024  
-
