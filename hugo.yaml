@@ -41,10 +41,6 @@ params:
       url: https://www.github.com/debajyotid2
     - name: linkedin
       url: https://www.linkedin.com/in/debajyotid2
-    - name: reddit
-      url: https://www.reddit.com/user/deviousteapot95
-    - name: mastodon
-      url: https://mastodon.social/@deviousteapot
     - name: orcid
       url: https://orcid.org/0000-0002-5667-0674
 
